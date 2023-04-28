@@ -1,6 +1,7 @@
 patch:
   style/color_scheme: macos_dark   # 将皮肤名称输入在此处
-  
+  style/color_scheme_dark: macos_dark
+
   text_orientation: horizontal  # horizontal | vertical
   inline_preedit: true
   corner_radius: 10
@@ -17,10 +18,10 @@ patch:
   font_point: 21
   #label_font_face: 'Lucida Grande'
   label_font_point: 18
- 
+
   preset_color_schemes:
     native:
-      name: 系統配色
+      name: macos_dark
 
     macos_light:
       name: Mac仿原生亮色/macos_light
@@ -237,7 +238,7 @@ patch:
       hilited_candidate_text_color: 0xfafafa
       hilited_candidate_back_color: 0xd4bc00
       comment_text_color: 0x808080
-      hilited_comment_text_color: 0x444444  
+      hilited_comment_text_color: 0x444444
 
     purity_of_form:
       name: 純粹的形式／Purity of Form
@@ -261,7 +262,7 @@ patch:
       hilited_back_color: 0xfafafa
       hilited_candidate_text_color: 0xeeeeee
       hilited_candidate_back_color: 0x444444
-      comment_text_color: 0x808080  
+      comment_text_color: 0x808080
 
     starcraft:
       name: 星際我爭霸／StarCraft
@@ -306,7 +307,7 @@ patch:
       hilited_candidate_text_color: 0x989F52 #Lab 60, -35, -5
       hilited_candidate_label_color: 0xCC8947 #Lab 55, -10, -45
       hilited_comment_text_color: 0x289989 #Lab 60, -20, 65
-      hilited_text_color: 0xBE706D #Lab 50, 15, -45    
+      hilited_text_color: 0xBE706D #Lab 50, 15, -45
 
     solarized_dark:
       name: 曬經・月／Solarized Dark
