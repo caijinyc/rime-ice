@@ -3,3 +3,5 @@ patch:
     - {accept: comma, send: Page_Up, when: paging} #注销逗号翻页
     - {accept: period, send: Page_Down, when: has_menu} #注销句号翻页
     - {accept: semicolon, send: 2, when: has_menu} #分号次选
+
+  ascii_composer/switch_key/Shift_L: noop
