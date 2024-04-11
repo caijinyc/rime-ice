@@ -21,6 +21,47 @@
 # version: "2023-04-08"
 #
 # 此行之后不能写注释
+	
+
+工单	gsdj	1
+商详	uhxl	1
+蔡锦	cdjb	1
+封版	fgbj	1
+爽死	ulsi    1
+智创	viil    2
+智创	viil    2
+智创	viil	2
+联调	lt	2
+联调	lt	2
+搞完	gcwj	3
+搞完	gcwj	3
+高玩	gcwj	2
+高玩	gcwj	2
+难顶	njdk	2
+难顶	njdk	2
+猫毛	mcmc	0
+猫毛	mcmc	0
+剪映	jmyk	2
+抖音	dzyb	2
+高优	gcyz	2
+
+对对	dvdv	2
+对对	dvdv	2
+
+超时	icui	3
+超时	icui	3
+
+后刃	hzrf	3
+后刃	hzrf	3
+前刃	qmrf	3
+前刃	qmrf	3
+上工	uhgs	3
+上工	uhgs	3
+程度	igdu	3
+程度	igdu	3
+低优	diyz	3
+低优	diyz	3
+
 
 啊	a	2
 按	a	1
@@ -10959,7 +11000,6 @@ AA制	aavi	1
 高中	gcvs	1
 膏	gcw	1
 高温	gcwf	2
-睾丸	gcwj	1
 高	gcwk	1
 膏	gcwo	1
 高位	gcww	1
@@ -12446,7 +12486,6 @@ GDP	gdp	1
 公道	gsdc	1
 功德	gsde	1
 工地	gsdi	1
-哥斯达黎加	gsdj	1
 供电	gsdm	1
 勾三搭四	gsds	1
 共度	gsdu	1
@@ -43194,7 +43233,6 @@ PPT	ppt	1
 双乳	ulru	1
 说了算	uls	1
 生离死别	ulsb	1
-少林寺	ulsi	1
 十六岁	ulsv	1
 水龙头	ult	1
 生灵涂炭	ultt	1
